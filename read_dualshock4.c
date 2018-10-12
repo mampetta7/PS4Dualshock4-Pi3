@@ -33,17 +33,17 @@
 	Right stick push in (R3)		---			12
 	Left Circle up / down			7			---
 	Left Circle right / left		6			---
-	Square							---			3
-	Triangle						---			2
-	Circle							---			1
-	Cross							---			0
-	L1								---			4
-	L2								2			6
-	R1								---			5
-	R2								5			7
-	PS (logo)						--- 		10
-	OPTIONS							---			9
-	SHARE							---			8
+	Square__________________		---			3
+	Triangle________________		---			2
+	Circle__________________		---			1
+	Cross___________________		---			0
+	L1______________________		---			4
+	L2______________________		2			6
+	R1______________________		---			5
+	R2______________________		5			7
+	PS (logo)_______________		--- 		10
+	OPTIONS_________________		---			9
+	SHARE___________________		---			8
 
 * Use this command to figure out the button assignment: $ jstest /dev/input/js0
 * 
